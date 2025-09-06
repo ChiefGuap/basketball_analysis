@@ -2,3 +2,7 @@ __pycache__/
 *.pt
 *.avi
 *.pkl
+*.venv
+*.env
+*.log
+.DS_Store
